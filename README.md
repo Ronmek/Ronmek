@@ -7,16 +7,10 @@
 <div align="center"> 
 A current freshman student at the University of Arizona majoring in Cyber Operations: Cyber Engineering at the College of Applied Sciences and Technology (CAST).
 <br></div>
-
+<!--
 <img src="https://github.com/Ronmek/Ronmek/blob/main/Check%20Box.png" alt="Checked box" width="15" height="15"> [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
  <br>
 <img src="https://github.com/Ronmek/Ronmek/blob/main/UNChecked%20Box.png" alt="Checked box" width="15" height="15">   <br>
-
-
-
-
-
-<!--
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
   <p>Visitor count</p>
 <img src="https://profile-counter.glitch.me/{RonmeK}/count.svg" alt="Visitor's Count" />
