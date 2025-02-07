@@ -5,17 +5,18 @@
 </h1>
 
 <div align="center"> 
-  
 ### A current freshman student at the University of Arizona majoring in Cyber Operations: Cyber Engineering at the College of Applied Sciences and Technology (CAST).
+<br></div>
 
-  <p>Visitor count</p>
-<img src="https://profile-counter.glitch.me/{RonmeK}/count.svg" alt="Visitor's Count" />
-</div>
+
+
+
 
 
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+  <p>Visitor count</p>
 <img src="https://profile-counter.glitch.me/{RonmeK}/count.svg" alt="Visitor's Count" />
 ---->
-xsx
+
